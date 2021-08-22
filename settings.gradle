@@ -1,0 +1,2 @@
+rootProject.name = "tokoku"
+include ':app'
